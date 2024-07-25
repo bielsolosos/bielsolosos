@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Meu nome é Gabriel. sou um desenvolvedor web full stack estudante de engenharia de computação! <br><br>My name is Gabriel. I am brazilian a full stack web developer and a computer engineering student!</p>
+<p align="left">Meu nome é Gabriel. sou um desenvolvedor web full stack estudante de engenharia de computação! <br><br>My name is Gabriel. I am brazilian full stack web developer and a computer engineering student!</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">Tecnologies i use</h2>
+<h2 align="left">Tecnologies I use</h2>
 
 ###
 
