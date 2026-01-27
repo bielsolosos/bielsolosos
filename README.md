@@ -5,8 +5,7 @@ Desenvolvedor FullStack
 -----------------------
 
 Desenvolvedor FullStack especializado em Java/Spring Boot e React/Next.js. Experiência com 
-microsserviços, sistemas distribuídos e refatoração de código legado. Atualmente desenvolvendo 
-o Noto (https://noto.bielsolososdev.space/), um sistema de anotações inspirado no Notion.
+microsserviços, sistemas distribuídos e desenvolvimento web no geral.
 
 
 
